@@ -7,3 +7,5 @@ Alala
 git remove
 
 git status
+
+20221227
